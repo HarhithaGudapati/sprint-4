@@ -2,7 +2,6 @@ package com.example.currencyconverter.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
-
 public class CurrencyConversion {
     public BigDecimal amount;
     public String fromCurrency;
